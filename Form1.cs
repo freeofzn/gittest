@@ -21,5 +21,10 @@ namespace WindowsFormsApp2
         {
             MessageBox.Show("Hello, World!", "인사"); // 메시지 + 타이틀
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello, World! 222", "인사222"); // 메시지 + 타이틀
+        }
     }
 }
