@@ -29,7 +29,7 @@ namespace WindowsFormsApp2
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello, World! 333", "인사333"); // 메시지 + 타이틀
+            MessageBox.Show("Hello, World! 333", "인사333 8"); // 메시지 + 타이틀
         }
     }
 }
